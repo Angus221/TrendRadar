@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:28:41.579720+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-10-29T13:22:23.988043+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 12时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 13时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
