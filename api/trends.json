@@ -1,29 +1,7 @@
 {
-  "generated_at": "2025-11-02T23:18:14.957788+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-11-03T00:23:57.835389+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/2998082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            14,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
