@@ -1,37 +1,7 @@
 {
-  "generated_at": "2025-11-04T23:23:06.279948+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2025-11-05T00:26:59.089592+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
-          "url": "https://wallstreetcn.com/livenews/2998681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时29分]"
-        },
-        {
-          "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251104005124475800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
