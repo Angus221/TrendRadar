@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T18:22:46.602278+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-11-07T19:19:50.822879+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2193935",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时19分]"
         },
         {
           "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
