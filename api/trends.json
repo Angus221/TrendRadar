@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T06:20:48.142795+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-13T07:20:29.750001+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         }
       ]
     }
