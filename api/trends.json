@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T07:20:29.750001+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-11-13T09:39:08.068653+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         }
       ]
     }
