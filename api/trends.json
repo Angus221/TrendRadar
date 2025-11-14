@@ -1,48 +1,7 @@
 {
-  "generated_at": "2025-11-14T23:19:17.914919+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2025-11-15T00:26:52.170613+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
-          "url": "https://wallstreetcn.com/livenews/3004921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时19分]"
-        },
-        {
-          "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
-          "url": "https://flash.jin10.com/detail/20251114044411055800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
-          "url": "https://flash.jin10.com/detail/20251114024141963800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
