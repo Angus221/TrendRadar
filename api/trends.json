@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T09:39:02.657250+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-11-17T11:17:32.807179+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 11时17分]"
         },
         {
           "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时17分]"
         }
       ]
     }
