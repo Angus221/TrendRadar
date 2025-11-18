@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T19:19:35.648835+08:00",
+  "generated_at": "2025-11-18T20:46:13.843546+08:00",
   "total_titles_processed": 1708,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
