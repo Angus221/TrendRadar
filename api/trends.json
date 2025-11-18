@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-18T17:23:12.975900+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-11-18T18:24:29.063496+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
+          "url": "https://flash.jin10.com/detail/20251118175557810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
