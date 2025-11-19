@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T03:17:27.266373+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-11-20T04:21:06.344457+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时21分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
