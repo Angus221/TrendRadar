@@ -1,48 +1,22 @@
 {
-  "generated_at": "2025-11-21T23:19:38.026902+08:00",
-  "total_titles_processed": 2197,
+  "generated_at": "2025-11-22T00:26:34.449268+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
           "url": "https://www.cls.cn/detail/2207687",
           "source": "财联社热门",
           "ranks": [
-            6,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时19分]"
-        },
-        {
-          "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
-          "url": "https://wallstreetcn.com/livenews/3008126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 04时24分]"
-        },
-        {
-          "title": "华为在上海举办“2025 AI容器应用落地与发展论坛”，会上正式发布并开源了创新AI容器技术Flex:ai",
-          "url": "https://wallstreetcn.com/livenews/3008623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "00时26分"
         }
       ]
     }
