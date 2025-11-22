@@ -1,45 +1,22 @@
 {
-  "generated_at": "2025-11-22T23:18:46.857781+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2025-11-23T00:23:40.802564+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 12时23分]"
-        },
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
           "url": "https://www.cls.cn/detail/2207918",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时25分 ~ 23时18分]"
-        },
-        {
-          "title": "华为AI突破性技术揭晓！",
-          "url": "https://wallstreetcn.com/articles/3759882",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
