@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T16:29:25.553190+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-11-25T17:25:16.791964+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本将把人工智能列入6大战略技术领域",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
+          "title": "王兴兴、稚晖君入选，工信部人形机器人标准化技术委员会名单公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32031326",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
