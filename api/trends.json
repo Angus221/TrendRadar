@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T07:19:47.438146+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-25T09:29:48.362774+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "北京：加快人工智能辅助诊疗技术的推广应用",
+          "url": "https://wallstreetcn.com/livenews/3009833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     }
