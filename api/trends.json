@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T18:25:05.714390+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-11-25T19:19:25.061499+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "日本将把人工智能列入6大战略技术领域",
