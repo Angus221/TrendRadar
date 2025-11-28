@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-11-28T23:21:46.052252+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2025-11-29T00:26:10.358461+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "野村证券：将利用OpenAI的战略和技术支持开发新服务。",
-          "url": "https://flash.jin10.com/detail/20251128145150536800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
