@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:37:39.502135+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2025-12-02T22:23:34.210397+08:00",
+  "total_titles_processed": 1861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
+        },
+        {
+          "title": "AMD(AMD.O)与的跨国信息技术公司HPE扩大合作，共同推进开放机架规模人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251202220335986800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
