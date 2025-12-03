@@ -1,29 +1,7 @@
 {
-  "generated_at": "2025-12-03T23:24:20.546185+08:00",
-  "total_titles_processed": 2087,
+  "generated_at": "2025-12-04T00:30:51.114520+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
-          "url": "https://www.zhihu.com/question/1978921952010794441",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            10,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时20分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
