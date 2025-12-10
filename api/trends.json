@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-12-10T23:26:27.820174+08:00",
-  "total_titles_processed": 2085,
+  "generated_at": "2025-12-11T00:28:59.306617+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
-          "url": "https://flash.jin10.com/detail/20251210092622322800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
