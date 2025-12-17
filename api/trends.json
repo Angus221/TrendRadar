@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-17T21:34:28.996594+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2025-12-17T22:24:06.023645+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美联储理事沃勒：我认为人工智能不是泡沫，而是一项真正的技术。",
+          "url": "https://flash.jin10.com/detail/20251217221029515800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "据日经新闻：日本先进半导体制造企业Rapidus已开发出可降低人工智能应用芯片生产成本的技术。",
           "url": "https://flash.jin10.com/detail/20251217012348102800",
