@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-22T13:25:48.013371+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-12-22T14:36:33.623607+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "印度民航部：已注意到印度航空AI-887航班在起飞后不久因技术问题发生的事件。",
+          "url": "https://flash.jin10.com/detail/20251222131626437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
         {
           "title": "印度航空：航班AI887，一架从德里飞往孟买的波音777客机，因技术问题于12月22日起飞后返航德里。",
           "url": "https://flash.jin10.com/detail/20251222122308407800",
@@ -14,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
