@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-12-30T23:23:44.562435+08:00",
-  "total_titles_processed": 1939,
+  "generated_at": "2025-12-31T00:29:03.709899+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部：推动人工智能、400G/800G光传送等前沿技术在交换中心部署和应用",
-          "url": "https://wallstreetcn.com/livenews/3028446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 11时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
