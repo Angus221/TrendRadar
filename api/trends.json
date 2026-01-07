@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T05:21:37.299954+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-01-08T06:21:52.883306+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时21分]"
         },
         {
           "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
