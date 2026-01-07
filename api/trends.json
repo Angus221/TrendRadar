@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T21:40:42.762567+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-07T22:25:32.541338+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 22时25分]"
         },
         {
           "title": "工信部等八部门：推动智能芯片软硬协同发展，支持突破高端训练芯片、端侧推理芯片、人工智能服务器、高速互联、智算云操作系统等关键核心技术",
