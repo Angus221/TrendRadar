@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-10T23:20:52.890941+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-01-11T00:25:58.794021+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
-          "url": "https://www.zhihu.com/question/571427849",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
