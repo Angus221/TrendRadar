@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T20:49:16.083552+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2026-01-13T21:42:40.428676+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时42分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时42分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时42分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
