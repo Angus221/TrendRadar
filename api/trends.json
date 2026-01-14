@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T09:50:55.906794+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-14T11:48:33.455681+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             1,
             25,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 11时48分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
