@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T04:27:27.060093+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-01-16T05:22:56.991932+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时22分]"
         },
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -28,11 +29,12 @@
             7,
             8,
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时22分]"
         }
       ]
     }
