@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:25:27.826370+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-16T04:27:27.060093+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时27分]"
+        },
+        {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
           "url": "https://www.zhihu.com/question/1993035109318796739",
           "source": "知乎",
           "ranks": [
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时25分]"
-        },
-        {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时27分]"
         }
       ]
     }
