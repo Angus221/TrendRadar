@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T20:47:18.053566+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2026-01-15T21:40:46.324656+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 21时40分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             3,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时40分]"
         }
       ]
     }
