@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-20T23:32:23.073270+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2026-01-21T00:37:30.656769+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海市委网信办：探索人工智能安全治理新模式 提升新技术风险防范能力",
-          "url": "https://wallstreetcn.com/livenews/3040504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
