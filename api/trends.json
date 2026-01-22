@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-22T23:32:23.264853+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2026-01-23T00:37:23.146390+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲头部AI公司高管：说中国的人工智能技术落后美国是“天方夜谭”",
-          "url": "https://wallstreetcn.com/livenews/3042097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
