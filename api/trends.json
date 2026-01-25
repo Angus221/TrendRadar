@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-01-25T23:21:54.298998+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-26T00:27:24.005581+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://www.cls.cn/detail/2268603",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
