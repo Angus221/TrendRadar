@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-01-27T23:32:58.289216+08:00",
-  "total_titles_processed": 2119,
+  "generated_at": "2026-01-28T00:32:04.693249+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【沐曦股份：预计2025年净亏损6.5亿元-7.98亿元，亏损同比收窄43.36%至53.86%】报告期内，公司坚持“1+6+X”发展战略，加大市场开拓力度，不断提升公司在高性能GPU行业的市场地位和影响力，推动人工智能技术与千行百业深度融合。凭借优越的产品性能及完善的软件生态，公司产品及服务获得下游客户的广泛认可与持续采购，报告期内收入规模较上年同期实现显著增长。报告期内，公司股份支付费用较上年同期有所减少，该项因素对公司利润产生正向影响，降低公司亏损幅度，使得公司经营业绩呈现减亏向好的发展态势。",
-          "url": "https://wallstreetcn.com/livenews/3044741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "Anthropic：受英国科学、创新和技术部委托，为gov.uk网站构建并试点专用人工智能助手。",
-          "url": "https://flash.jin10.com/detail/20260127140117500800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "诺基亚通过与半导体和软件技术公司Blaize在亚太地区开展战略合作，强化边缘人工智能能力，打造混合推理解决方案。",
-          "url": "https://flash.jin10.com/detail/20260127180105304800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
