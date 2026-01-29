@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:40:41.690018+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-01-29T17:43:57.176040+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2273653",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时43分]"
         },
         {
           "title": "从技术突破到价值落地，智能体开启AI进化新格局",
