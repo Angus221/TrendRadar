@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-02-01T23:26:39.908162+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-02-02T00:31:54.718076+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
-          "url": "https://wallstreetcn.com/livenews/3047705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "印度预算案：将采取措施支持人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260201140035972800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时34分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
