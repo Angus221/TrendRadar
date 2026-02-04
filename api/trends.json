@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T22:07:56.126791+08:00",
-  "total_titles_processed": 2037,
+  "generated_at": "2026-02-04T23:43:58.312006+08:00",
+  "total_titles_processed": 2153,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时07分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时43分]"
         },
         {
           "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
