@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-04T23:43:58.312006+08:00",
-  "total_titles_processed": 2153,
+  "generated_at": "2026-02-05T00:52:14.286457+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "腾讯混元AI Infra核心技术开源",
-          "url": "https://wallstreetcn.com/livenews/3049846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
           "url": "https://news.ifeng.com/c/8qTccGGdcdv",
@@ -26,19 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 23时43分]"
-        },
-        {
-          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
-          "url": "https://wallstreetcn.com/livenews/3049706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
