@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T14:43:27.549975+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-02-07T15:32:35.464081+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 14时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 15时32分]"
         },
         {
           "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
