@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T13:01:52.731607+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-02-09T14:14:10.250935+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时32分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         }
       ]
     }
