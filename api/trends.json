@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:43:18.937366+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-14T04:39:50.596377+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时39分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
