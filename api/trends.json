@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-02-25T22:50:26.191018+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2026-02-26T00:03:57.619238+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
-          "url": "https://flash.jin10.com/detail/20260225064530677800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "美媒：美防长要求人工智能公司允许军方无限制使用其技术，否则将面临惩罚",
-          "url": "https://wallstreetcn.com/livenews/3058430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
