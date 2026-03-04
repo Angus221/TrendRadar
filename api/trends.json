@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-04T23:42:00.748586+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2026-03-05T00:44:57.171852+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大会发言人：2025年是国产人形机器人产业实现技术突破与场景落地双重跨越的关键一年",
-          "url": "https://wallstreetcn.com/livenews/3063315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
