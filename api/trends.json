@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-03-08T23:25:28.423963+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-03-09T00:31:42.094168+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
-          "url": "https://www.zhihu.com/question/2013358487866996726",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 07时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
