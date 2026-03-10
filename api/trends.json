@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T17:44:52.861963+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-03-10T18:40:28.975000+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "沙特阿美：我们持续运用包括人工智能在内的先进技术，提升全业务运营效率并挖掘价值。 我们相信对业务的持续投资将为公司未来发展奠定坚实基础。 天然气扩建项目按计划推进，以满足国内日益增长的需求。 项目推进势头强劲，彰显未来运营现金流增长潜力。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时46分 ~ 14时52分]"
+        },
+        {
+          "title": "日本选定61项重点技术作为优先投资目标，包括人工智能、量子计算和无人机",
+          "url": "https://flash.jin10.com/detail/20260310181025266800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
