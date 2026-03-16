@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-17T02:02:10.691572+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-03-17T03:18:16.024726+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时18分]"
+        },
+        {
+          "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
+          "url": "https://flash.jin10.com/detail/20260317023121292800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
