@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T03:18:16.024726+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-03-17T04:39:54.860957+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时39分]"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
@@ -26,7 +26,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
