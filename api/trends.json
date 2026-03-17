@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T14:02:28.375792+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-17T15:17:11.523063+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 15时17分]"
         },
         {
           "title": "铠侠（Kioxia）在单台服务器上实现48亿规模高维向量搜索数据库，利用GPU实现7.8倍索引构建加速。 结合英伟达NVIDIA cuVS库与铠侠开源的AiSAQ技术，在极低DRAM占用下完成1024维向量索引。",
