@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T21:14:21.990924+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-03-18T23:04:33.905459+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2017543464514974274",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 23时04分]"
         },
         {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
