@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:53:22.622986+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-03-20T14:57:19.727209+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 14时57分]"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
