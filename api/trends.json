@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-03-22T23:28:11.253068+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-03-23T00:32:31.666037+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
-        },
-        {
-          "title": "我国自主研发的人形机器人能打网球了，拥有毫秒级的判断和响应，有哪些技术值得关注？它的网球水平如何？",
-          "url": "https://www.zhihu.com/question/2017270290770523801",
-          "source": "知乎",
-          "ranks": [
-            17,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 15时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
