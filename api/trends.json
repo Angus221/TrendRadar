@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-03-26T23:05:47.769287+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-03-27T01:02:59.641484+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            18,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时07分 ~ 07时36分]"
-        },
-        {
-          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术 构建自主可控的智算中心架构",
-          "url": "https://wallstreetcn.com/livenews/3077352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术",
-          "url": "https://flash.jin10.com/detail/20260326175722218800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
