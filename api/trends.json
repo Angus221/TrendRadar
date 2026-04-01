@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-04-01T23:04:56.498960+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2026-04-02T00:56:28.520905+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
-          "url": "https://flash.jin10.com/detail/20260401164104532800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
-          "url": "https://wallstreetcn.com/livenews/3080764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
