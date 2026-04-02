@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-02T22:57:12.412200+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-04-03T00:02:52.512247+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
-          "url": "https://flash.jin10.com/detail/20260402064015575800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
