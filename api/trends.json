@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-04-06T23:48:30.430193+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-04-07T00:49:49.324595+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
-          "url": "https://flash.jin10.com/detail/20260406095708248800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "美国发布美国-阿联酋人工智能加速伙伴关系会议纪要。G42在美阿人工智能合作框架下推进技术体系建设。",
-          "url": "https://flash.jin10.com/detail/20260406222700668800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
