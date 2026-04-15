@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-04-15T22:46:53.805914+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-04-16T00:06:33.101620+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
-          "url": "https://flash.jin10.com/detail/20260415124653212800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
-          "url": "https://wallstreetcn.com/livenews/3088191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
