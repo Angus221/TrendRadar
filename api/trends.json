@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-17T22:56:31.481290+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-04-18T00:02:36.757255+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "哈工大赵杰：双臂类人技能作业能力是决定人形机器人落地的核心技术",
-          "url": "https://wallstreetcn.com/livenews/3089764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
