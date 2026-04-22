@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T13:27:07.543389+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-04-22T15:48:49.477065+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2351466",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时48分]"
         },
         {
           "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
