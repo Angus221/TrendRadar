@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-29T23:14:13.871110+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-04-30T01:40:11.066282+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
-          "url": "https://wallstreetcn.com/livenews/3095938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
