@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T18:53:14.917614+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-05-02T19:45:42.401137+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时45分]"
         },
         {
           "title": "美军使用AI技术在霍尔木兹海峡扫雷",
