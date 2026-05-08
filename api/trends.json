@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-08T23:22:41.454898+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-05-09T01:19:01.688686+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股人形机器人概念板块震荡走高，绿的谐波、华勤技术、乔锋智能盘中创新高，巨轮智能两连板，五洲新春、大业股份封板涨停，恒锋工具涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260508101913427800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
