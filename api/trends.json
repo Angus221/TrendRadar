@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-05-23T23:02:18.359652+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-05-24T00:09:48.734446+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3108254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
