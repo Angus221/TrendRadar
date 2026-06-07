@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-07T15:56:44.334274+08:00",
-  "total_titles_processed": 821,
-  "failed_sources": [],
+  "generated_at": "2026-06-07T18:31:49.592220+08:00",
+  "total_titles_processed": 949,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
