@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-15T21:14:34.407312+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-06-16T02:26:35.741576+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华尔街日报：Anthropic本周末已与特朗普政府官员会面，并派遣顶尖技术团队前往华盛顿，寻求达成协议，以解除对其最强大的人工智能模型的出口限制。",
-          "url": "https://flash.jin10.com/detail/20260615070714614800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
