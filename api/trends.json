@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-19T23:17:22.652718+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-06-20T01:58:52.438324+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
-          "url": "https://wallstreetcn.com/livenews/3122066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "广东省人民政府印发《广东省推进服务业扩能提质实施方案》的通知，其中提到，抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心。培育引进更多具有核心竞争力的软件企业，打造一批全国领先的数字化转型服务商。",
-          "url": "https://flash.jin10.com/detail/20260619182004847800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
