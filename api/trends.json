@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-06-30T23:28:07.850533+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-07-01T01:54:47.794974+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
-          "url": "https://www.cls.cn/detail/2412070",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 08时10分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
