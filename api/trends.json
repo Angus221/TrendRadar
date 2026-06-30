@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-01T05:42:50.504541+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-01T07:13:44.449016+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
+          "url": "https://flash.jin10.com/detail/20260701065200498800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
