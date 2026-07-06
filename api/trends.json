@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-06T22:25:30.426254+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-07-07T01:43:49.688451+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "研究人员借助AI技术发现两种新型超导体",
-          "url": "https://wallstreetcn.com/livenews/3129164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "研究人员借助AI技术发现两种新型超导体",
-          "url": "https://flash.jin10.com/detail/20260706124426246800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
