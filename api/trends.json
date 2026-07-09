@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-09T23:21:08.698106+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-07-10T01:56:31.232327+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鼎龙股份：预计上半年净利润5.1亿元-5.4亿元，同比增长63.96%-73.61%；受益于全球半导体产业拓展与技术迭代，AI算力、存储芯片需求持续释放，带动下游晶圆制造产能持续扩容。公司半导体材料业务保持良好增长态势，多款核心创新材料验证落地、持续放量。",
-          "url": "https://wallstreetcn.com/livenews/3131337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
