@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-07-14T22:51:44.835057+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-07-15T00:15:10.264344+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "软银推出基于OpenAI技术的网络安全服务。",
-          "url": "https://wallstreetcn.com/livenews/3133244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "报道：英伟达与三菱重工拟在AI数据中心技术领域展开合作",
-          "url": "https://wallstreetcn.com/livenews/3133416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "【长芯博创：预计上半年净利润同比增长66.45%～105.09%】长芯博创公告，预计2026年上半年净利润为2.8亿元到3.45亿元，同比增长66.45%～105.09%。公司报告期内业绩较上年同期增长，主要得益于云计算、人工智能、大数据等新一代信息技术蓬勃发展，全球算力需求持续扩张，带动数据通信行业快速增长。公司数据通信相关产品市场需求旺盛，营业收入稳步提升，进而推动公司净利润实现稳步增长。",
-          "url": "https://wallstreetcn.com/livenews/3133538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
