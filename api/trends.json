@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-15T23:27:00.548390+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-07-16T01:18:42.405991+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储理事鲍曼：美联储不应在人工智能等新技术上过度干预银行",
-          "url": "https://flash.jin10.com/detail/20260715032619811800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
