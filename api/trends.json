@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-16T23:39:30.907454+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-07-17T01:16:46.772527+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
-          "url": "https://wallstreetcn.com/livenews/3134643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3134540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
