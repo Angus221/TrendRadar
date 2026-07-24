@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T15:31:54.888552+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-24T18:17:11.763210+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             19,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 15时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 18时17分]"
         },
         {
           "title": "英伟达与韩国科学技术院（KAIST）联合设立AI研究实验室，旨在加速韩国的AI创新。",
