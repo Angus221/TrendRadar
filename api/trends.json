@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T17:48:16.052220+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-07-25T19:11:09.743528+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 17时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 19时11分]"
         },
         {
           "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
