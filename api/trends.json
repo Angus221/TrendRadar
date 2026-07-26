@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T15:35:44.084974+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-07-26T18:01:07.039603+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄仁勋：中国注定会产出卓越的AI技术",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         }
       ]
     }
