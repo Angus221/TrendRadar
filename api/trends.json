@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-30T23:57:26.421526+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-07-31T01:39:00.239518+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电研发AI芯片封装技术。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3142497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
