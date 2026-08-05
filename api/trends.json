@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-05T23:20:33.750008+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-08-06T01:35:37.413115+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
-          "url": "https://wallstreetcn.com/livenews/3144926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
