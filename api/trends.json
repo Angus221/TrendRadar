@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:40:12.732331+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-08-06T18:39:00.526952+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT 人形机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时39分 ~ 15时40分]"
+        },
+        {
+          "title": "美国挑战者企业裁员报告：今年夏天裁员速度显著放缓。裁员计划仍然主要集中在科技行业，人工智能仍然是关注的焦点，因为对这项技术的投资正在重塑企业。",
+          "url": "https://flash.jin10.com/detail/20260806173303564800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
